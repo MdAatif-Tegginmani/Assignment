@@ -1,0 +1,87 @@
+
+.formmain{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    background: #FFFFFF;
+    width: 560px ;
+    height: 611p;
+
+}
+body{
+    position: relative;
+    background: #E5E5E5;
+    background: url(Rectangle\ 380.png);
+}
+h2{
+    width: 378px;
+height: 60px;
+font-weight: 500;
+font-size: 26px;
+text-align: center;
+align-self: stretch;
+flex-grow: 0;
+}
+p{
+    width: 378px;
+height: 37px;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+
+text-align: center;
+
+}
+
+label{
+width: 105px;
+height: 17px;
+font-family: 'Inter';
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+}
+
+input{
+box-sizing: border-box;
+border: 1px solid #CED4DA;
+border-radius: 6px;
+font-weight: 400;
+font-size: 14px;
+
+}
+select{
+box-sizing: border-box;
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+border-radius: 6px;
+}
+
+btns
+{
+   
+background: #F0F0F0;
+border-radius: 2px;
+
+}
+
+.footer{
+    
+position: absolute;
+width: 185px;
+height: 19px;
+left: 827px;
+top: 900px;
+
+
+}
+h4{
+  
+    position: absolute;
+    width: 160px;
+    height: 36.02px;
+    left: 60px;
+    top: 60px;
+}
